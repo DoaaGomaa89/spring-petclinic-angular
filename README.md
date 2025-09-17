@@ -1,11 +1,11 @@
 # Spring Petclinic Angular 
 
-[![Build Status](https://github.com/spring-petclinic/spring-petclinic-angular/actions/workflows/angular-ci.yml/badge.svg)](https://github.com/spring-petclinic/spring-petclinic-angular/actions/workflows/angular-ci.yml)
+[![Build Status](https://github.com/DoaaGomaa89/spring-petclinic-angular/actions/workflows/angular-ci.yml/badge.svg)](https://github.com/DoaaGomaa89/spring-petclinic-angular/actions/workflows/angular-ci.yml)
 
 ## Angular frontend for Spring Petclinic
 
 Warning: **client only**. 
-  Use REST API from backend [spring-petclinic-rest project](https://github.com/spring-petclinic/spring-petclinic-rest)
+  Use REST API from backend [spring-petclinic-rest project](https://github.com/DoaaGomaa89/spring-petclinic-rest)
   You need start backend server before start frontend application.
 
 ## Screenshot
@@ -25,7 +25,7 @@ npm install -g @angular/cli@latest
 ````
 Clone project from github
 ````
-git clone https://github.com/spring-petclinic/spring-petclinic-angular.git
+git clone https://github.com/DoaaGomaa89/spring-petclinic-angular.git
 ````
 Install local project package
 ````
